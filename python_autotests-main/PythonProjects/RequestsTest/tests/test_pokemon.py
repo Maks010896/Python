@@ -1,7 +1,7 @@
 import requests
 import pytest
 
-URL = 'https://api.pokemonbattle.me'
+URL = 'https://pokemonbattle.ru'
 header = {'Content-Type': 'application/json'}
 
 def test_status_code():
